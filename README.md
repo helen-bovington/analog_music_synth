@@ -16,3 +16,14 @@ Software
 
 
 DESCRIPTION OF EACH FILE/FOLDER: 
+
+PCB_documents
+
+analog_synth_block_diagram.png
+
+analog_synth_poster.pdf
+
+video_demos
+
+Cadence_files 
+
