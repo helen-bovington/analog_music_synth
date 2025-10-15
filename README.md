@@ -17,9 +17,22 @@ Software
 
 DESCRIPTION OF EACH FILE/FOLDER: 
 
+Cadence_files 
+
+- Contains all Cadence schematic files for download, simulation, or modification. Includes the spiceText and symbol files required to run the analog synthesizer circuits successfully.
+
 PCB_documents
 
 - Contains all the PCB schematic (.SchDoc) and layout (.PcbDoc) files for the analog synthesizer blocks, including CEM3340 VCO, Gilbert Mixer, LIN-EXPO Converter, VCA, MUX, Sustain, and Waveform Reshaper circuits.
+
+schematics_and_waveforms
+
+- Contains screenshots of all the Cadence schematics and resulting simulated waveforms for the analog synthesizer blocks. This folder also includes all the spiceText and symbol files needed to successfully run this custom circuit.
+
+video_demos
+
+- [Watch the pitch_volume_demo](https://drive.google.com/file/d/1nATk0rh68sWONzXLJCf0UebWwm36ZEd-/view?usp=drive_link)
+- [Watch the waveform_demo](https://drive.google.com/file/d/1uY7D6FP98FlUV1h7C2OQBhmS08Et43su/view?usp=sharing)
 
 analog_synth_block_diagram.png
 
@@ -32,17 +45,4 @@ analog_synth_poster.pdf
 system_block_diagram.png
 
 - A block diagram showing the whole system integration including the 9DOF and sEMG sensors, ESP32 chips, communication protocol, analog circuit, and power amp leading to the speaker.
-
-video_demos
-
-- [Watch the pitch_volume_demo](https://drive.google.com/file/d/1nATk0rh68sWONzXLJCf0UebWwm36ZEd-/view?usp=drive_link)
-- [Watch the waveform_demo](https://drive.google.com/file/d/1uY7D6FP98FlUV1h7C2OQBhmS08Et43su/view?usp=sharing)
-
-Cadence_files 
-
-- Contains all Cadence schematic files for download, simulation, or modification. Includes the spiceText and symbol files required to run the analog synthesizer circuits successfully.
-
-schematics_and_waveforms
-
-- Contains screenshots of all the Cadence schematics and resulting simulated waveforms for the analog synthesizer blocks. This folder also includes all the spiceText and symbol files needed to successfully run this custom circuit. 
 
