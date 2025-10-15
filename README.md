@@ -46,3 +46,6 @@ system_block_diagram.png
 
 - A block diagram showing the whole system integration including the 9DOF and sEMG sensors, ESP32 chips, communication protocol, analog circuit, and power amp leading to the speaker.
 
+technical_report.pdf
+
+- A document which organizes and details all aspect of the project. It includes all the communication and ML code, decription of the movement library, detailed descriptions of the analog blocks, and short overview of the PCB fabrication process. 
