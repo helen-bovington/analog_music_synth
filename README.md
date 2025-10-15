@@ -25,5 +25,8 @@ analog_synth_poster.pdf
 
 video_demos
 
+[Watch the pitch_volume_demo](https://drive.google.com/file/d/1nATk0rh68sWONzXLJCf0UebWwm36ZEd-/view?usp=drive_link)
+[Watch the waveform_demo](https://drive.google.com/file/d/1uY7D6FP98FlUV1h7C2OQBhmS08Et43su/view?usp=sharing)
+
 Cadence_files 
 
