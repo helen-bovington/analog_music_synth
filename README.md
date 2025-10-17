@@ -27,7 +27,7 @@ PCB_documents
 
 schematics_and_waveforms
 
-- Contains screenshots of all the Cadence schematics and resulting simulated waveforms for the analog synthesizer blocks. This folder also includes all the spiceText and symbol files needed to successfully run this custom circuit.
+- Contains screenshots of all the Cadence schematics and resulting simulated waveforms for the analog synthesizer blocks.
 
 video_demos
 
