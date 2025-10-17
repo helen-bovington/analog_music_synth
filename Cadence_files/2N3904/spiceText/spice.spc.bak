@@ -1,0 +1,8 @@
+* "spice" description for "capstone", "2N3904", "spiceText" 
+
+
+simulator lang=spice
+
+.SUBCKT 2N3904
+
+.ENDS

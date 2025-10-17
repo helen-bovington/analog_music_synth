@@ -1,0 +1,8 @@
+* "spice" description for "capstone", "MPS3640", "spiceText" 
+
+
+simulator lang=spice
+
+.SUBCKT MPS3640
+
+.ENDS

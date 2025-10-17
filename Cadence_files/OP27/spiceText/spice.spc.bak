@@ -1,0 +1,8 @@
+* "spice" description for "capstone", "OP27", "spiceText" 
+
+
+simulator lang=spice
+
+.SUBCKT OP27
+
+.ENDS

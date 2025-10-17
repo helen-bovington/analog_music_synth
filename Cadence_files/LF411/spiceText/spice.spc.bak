@@ -1,0 +1,8 @@
+* "spice" description for "capstone", "LF411", "spiceText" 
+
+
+simulator lang=spice
+
+.SUBCKT LF411
+
+.ENDS
